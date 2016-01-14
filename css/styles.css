@@ -3,7 +3,11 @@
   font-family: sans-serif;
 }
 
-ul
-{
+ul {
     list-style-type: none;
+}
+
+.spanstyle {
+  color: #8a0000;
+  background-color: #8ABB55;
 }
